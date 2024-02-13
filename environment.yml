@@ -1,0 +1,13 @@
+name: forest-risks
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - iris
+  - jupyter
+  - matplotlib
+  - numpy 
+  - pandas
+  - python=3.11
+  - scipy
