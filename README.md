@@ -1,6 +1,6 @@
 # Risk of unavoidable impacts on forests at 1.5 with and without overshoot
 
-[![DOI](https://zenodo.org/badge/756271280.svg)](https://zenodo.org/doi/10.5281/zenodo.10653493)
+[![DOI](https://zenodo.org/badge/756271280.svg)](https://zenodo.org/doi/10.5281/zenodo.10653514)
 
 Contains code for reproducing results from Munday et al., _in review_.
 
